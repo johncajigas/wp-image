@@ -17,7 +17,7 @@ fi
 
 echo "Running install..."
 
-wp core install --path="/var/www/html" --url="http://localhost:3030" --title=headless-wordpress --admin_user=wordpress --admin_password=gwen30 --admin_email=john@cajigas.dev --skip-email
+wp core install --path="/var/www/html" --url="http://localhost:8080" --title=headless-wordpress --admin_user=wordpress --admin_password=phila1234 --admin_email=john@cajigas.dev --skip-email
 
 echo "Activating plugins..."
 
